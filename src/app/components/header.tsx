@@ -11,8 +11,8 @@ const Header = () => {
           data-aos-duration="2000">
       <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
             <Image
-              src={"/images/zlogo.jpeg"}  
-              alt="It Mate"
+              src={"/zlogo.jpeg"}  
+              alt="zlogo"
               width={65}  
               height={65} 
               className="w-[65px] h-full shadow-lg rounded-full "
